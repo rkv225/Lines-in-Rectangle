@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+c:\users\rishabh\documents\visual studio 2017\projects\lineinrect\lineinrect\MyForm.h(241): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rishabh\documents\visual studio 2017\projects\lineinrect\lineinrect\MyForm.h(242): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rishabh\documents\visual studio 2017\projects\lineinrect\lineinrect\MyForm.h(247): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rishabh\documents\visual studio 2017\projects\lineinrect\lineinrect\MyForm.h(248): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rishabh\documents\visual studio 2017\projects\lineinrect\lineinrect\MyForm.h(263): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rishabh\documents\visual studio 2017\projects\lineinrect\lineinrect\MyForm.h(264): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rishabh\documents\visual studio 2017\projects\lineinrect\lineinrect\MyForm.h(269): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rishabh\documents\visual studio 2017\projects\lineinrect\lineinrect\MyForm.h(270): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  LineInRect.vcxproj -> C:\Users\Rishabh\Documents\Visual Studio 2017\Projects\LineInRect\Debug\LineInRect.exe
